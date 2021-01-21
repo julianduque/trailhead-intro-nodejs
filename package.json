@@ -1,0 +1,27 @@
+{
+  "name": "trailhead-intro-nodejs",
+  "version": "1.0.0",
+  "description": "A csv to JSON parser",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap",
+    "lint": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianduque/trailhead-intro-nodejs.git"
+  },
+  "author": "Julián Duque <jduque@salesforce.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianduque/trailhead-intro-nodejs/issues"
+  },
+  "homepage": "https://github.com/julianduque/trailhead-intro-nodejs#readme",
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tap": "^14.11.0"
+  }
+}
